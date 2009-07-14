@@ -18,4 +18,19 @@ In what sense are the fallacies of explaining apprehension in terms of apprehend
 
 This is a clear statement of the disjunctivism or anti-hybridism about knowledge that McDowell and Williamson later will defend. Also, Cook Wilson's skepticism about the "theory of knowledge" will be echoed by Prichard, Ryle, Austin, and later, Williamson.
 
-Is Cook Wilson a disjunctivist about perception as well? The matter is unclear. In his letter to Stout he does defend a conception of perception as the direct apprehension of objects spatially external to the perceiving subject, and in the letter to Prichard he does at one point speak indifferently of knowledge, apprehension, and *perception*. Neither consideration is decisive. More telling, however, is that the fallacies of explaining apprehension in terms of the object apprehended and in terms of the apprehending of the object are echoed in the letter to Stout and, indeed, form the core of its content (though there is much that is of interest besides---the letter to Stout is a particularly rich discussion with lots of detailed argumentation).
+Is Cook Wilson a disjunctivist about perception as well? The matter is unclear. In his letter to Stout he does defend a conception of perception as the direct apprehension of objects spatially external to the perceiving subject, and in the letter to Prichard he does at one point speak indifferently of knowledge, apprehension, and *perception*. Neither consideration is decisive. More telling, however, is that the fallacies of explaining apprehension in terms of the object apprehended and in terms of the apprehending of the object are echoed in the letter to Stout and, indeed, form the core of its content (though there is much that is of interest besides---the letter to Stout is a particularly rich discussion with lots of detailed argumentation). In particular, both representative realist and idealist accounts of perception are criticized in line with the two variant fallacies concerning knowledge or apprehension.
+
+## Representative Realism
+
+Cook Wilson singles out for criticism Stout's claim that the sensations which mediate knowledge of secondary qualities do so only in so far as "they represent, express, or stand for something other than themselves".
+
+perhaps the most fundamental issue consists in negative and positive claims about the nature of representation. The negative claim is that nothing is intrinsically representational: 
+> Nothing has \emph{meaning} in itself''. Presumably this was an effective point against those of his contemporaries who held that ideas are intrinsically representational. 
+
+The positive claim is put as follows: 
+
+> Representation is our subjective act. ... It is *we* who mean. 
+
+It is on these grounds that Cook Wilson criticizes Bradley's theory of judgment (*Statement and Inference*, XIII, §§124-125). This thought, or something very much like it, independently animates McDowell in his discussion of Dennett, and Travis in his discussion of the representational theory of experience. While this is really the fundamental point, Cook Wilson doesn't explicitly argue for it, either in the present letter or in the manuscript about Bradley's theory of judgement. Perhaps the thought is that in the absence of anything being intrinsically representational, the only fact that could make for representation essentially involves a subject.
+
+## Idealism
