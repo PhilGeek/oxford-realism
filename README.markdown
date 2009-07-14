@@ -12,3 +12,5 @@ This is a draft of a paper cowritten by Charles Travis on Oxford realism for Mic
 
 # Contents
 
+* README.markdown
+* perception.markdown
