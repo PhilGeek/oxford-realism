@@ -24,13 +24,22 @@ Is Cook Wilson a disjunctivist about perception as well? The matter is unclear. 
 
 Cook Wilson singles out for criticism Stout's claim that the sensations which mediate knowledge of secondary qualities do so only in so far as "they represent, express, or stand for something other than themselves".
 
-perhaps the most fundamental issue consists in negative and positive claims about the nature of representation. The negative claim is that nothing is intrinsically representational: 
-> Nothing has \emph{meaning} in itself''. Presumably this was an effective point against those of his contemporaries who held that ideas are intrinsically representational. 
+Perhaps, the most fundamental issue consists in negative and positive claims about the nature of representation. The negative claim is that nothing is intrinsically representational:
 
-The positive claim is put as follows: 
+> Nothing has *meaning* in itself. 
+
+Presumably this was an effective point against those of his contemporaries who held that ideas are intrinsically representational. The positive claim is put as follows: 
 
 > Representation is our subjective act. ... It is *we* who mean. 
 
 It is on these grounds that Cook Wilson criticizes Bradley's theory of judgment (*Statement and Inference*, XIII, §§124-125). This thought, or something very much like it, independently animates McDowell in his discussion of Dennett, and Travis in his discussion of the representational theory of experience. While this is really the fundamental point, Cook Wilson doesn't explicitly argue for it, either in the present letter or in the manuscript about Bradley's theory of judgement. Perhaps the thought is that in the absence of anything being intrinsically representational, the only fact that could make for representation essentially involves a subject.
+
+There are weaker and stronger ways to understand the positive claim:
+
+* Perhaps representation is *personal* in the sense that it belongs to a conscious subject.
+* Perhaps representation is *agential* in the sense that its the result of something a person does.
+
+The distinction potentially bears on whether Cook Wilson's criticism generalizes to encompass, not only representative realism, but the representational theory of experience (understood *not* as an explanatory hypothesis about the phenomenal character of experience of the kind that Harman endorses, but merely as the attribution to experience of representational content.) Perhaps, an agential conception of representation, if developed and sustained, would count against the representational theory of experience (but see McDowell's remarks about spontaneity); but it is unobvious that a personal conception of representation would. Experiences are, after all, states of a subject (contrast subpersonal states of a subject such as neurophysiological states). 
+
 
 ## Idealism
