@@ -68,3 +68,21 @@ If perceptual appearances are "the appearing of a phenomenon caused in us by the
 
 > It must be observed that the result of this is that there could be no direct perception or consciousness of Reality under any circumstances or any condition of knowing or perceiving: for the whole view is developed entirely from the fact that the object is distinct from our act of knowing it or recognizing it, which distinction must exist in any kind of knowing it or perceiving it. From this error would necessarily result a mere subjective idealism. Reality would become an absolutely unknowable 'Thing in Itself', and finally disappear altogether (as with Berkeley) as an hypothesis that we could not possibly justify.
 
+# Prichard on the Theory of Appearing
+
+Cook Wilson does not provide neither a theory of perception nor of the nature of appearances. However, Prichard's theory of appearing builds on some of Cook Wilson's insights. Following Cook Wilson, Prichard holds that the object of perception, like the object of knowledge, must be independent of the act of perceiving, and that an appearance is properly understood as an appearing of a mind-independent object to the perceiving subject. Prichard thus opposes any conception of appearance, such as Kant's, where appearances are states of a subject produced by external objects.
+
+For Prichard, canonical appearance attributions take the following form:
+
+> o appears F
+
+Prichard makes five central claims about appearances described by canonical appearance-attributions:
+
+1. o is an external body located in space.
+2. Appearance is relational. Appearance is the presentation of o---it is o appearing F to a subject S.
+3. The predicate F has spatial conditions of application---it is intelligibly applied only to spatial bodies.
+4. The external spatial body o is the object of perception in virtue of which o appears.
+5. Our perception of o enables us to apprehend o and so come to know about it.
+
+# Prichard on the Sense Datum Fallacy
+
