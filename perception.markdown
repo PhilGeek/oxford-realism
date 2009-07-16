@@ -86,3 +86,18 @@ Prichard makes five central claims about appearances described by canonical appe
 
 # Prichard on the Sense Datum Fallacy
 
+At least ever since "Seeing Movement" written in 1921, Prichard abandons the theory of appearing. Specifically, he denies that bodies are the object of perception, and he denies that perception is a species of knowledge.
+
+While Prichard primarily casts his discussion in terms of *knowledge*, various writers are held to be committed to the thesis that perception is a species of knowledge if in perceiving something the subject *apprehends* it, is *conscious* of it, or is *aware* of it. There are important differences between these notions---while some of these attitudes take propositional objects others take non-propositional objects. In what sense is perception a form of knowing? So conceived, perception is a sensuous mode of awareness that makes the subject *knowledgeable* of its object. In being so aware of an object, the subject is in a position to know certain things about it---depending, of course, on the subject’s possession and exercise of the appropriate recognitional capacities.
+
+Prichard observes that contemporary writers agree with Berkeley that the object's of perception are secondary qualities. But they maintain, instead, that these are sense data. And as a consequence, certain questions arise about the nature of sense data, that do not arise if secondary qualities are understood as sensations. Moreover, the substitution of sense data for sensations is fallacious in the sense that it depends on the false thesis that perception is a species of knowledge.
+
+Among the arguments against the thesis that perception is a form of knowledge, Prichard gives the following two:
+
+1. The supposition that the objects of perception exist independently of our perceiving them raises substantive metaphysical questions that admit of no determinate answers.
+2. If perceiving were a kind of knowing, mistakes would not be possible, but they are.
+
+The first is explicitly derived from G.A. Paul, and the second derives from a peculiar feature of the Cook Wilsonian conception of knowledge. Both present important morals for Oxford realism, if it is to be sustained.
+
+## Paul on Sense Data
+
