@@ -14,19 +14,47 @@ Second is disjunctivism or anti-hybridism about knowledge, the idea that there i
 
 > 
 
-One strand of Oxford reflection on perception involved working out parallel theses about perception. And again, it is a concern about realism that is motivating. Begin with the realist conception of knowledge.  The question then will be: What must perception be like if we can know something about an object by seeing it? What must perception be if it can make us knowledgeable of a subject matter independent of the mind?
+
 
 Another strand of Oxford reflection on perception involves a tension within the conception of knowledge held by early Oxford realists. Cook Wilson and Prichard both held -->
 
+Oxford realists framed the issue with their idealist opponents primarily in terms of knowledge. 
+
+A concern for realism motivates a fundamental strand of Oxford reflection on perception. Begin with the realist conception of knowledge.  The question then will be: What must perception be like if we can know something about an object by seeing it? What must perception be if it can make us knowledgeable of a subject matter independent of the mind? The resulting conception of perception is not unlike the conception of perception shared by Cambridge realists such as Russell and Moore. Roughly speaking, perception is conceived to be a fundamental and irreducible mode of sensory awareness of a mind-independent subject matter, a mode of awareness that enables the subject to have propositional knowledge of that subject matter.
+
+One key thesis that frames the realist conception of perception is the fundamental realist (or anti-idealist) commitment common to Cook Wilson and Moore:
+
+> The objects of knowledge are independent of the act of knowing.
+
+This is a thesis about knowledge, not perception. What connects the fundamental realist commitment to perception is the following doctrine:
+
+> Sense perception is a form of knowing.  
+
+That sense perception is a form of knowing was held not only by the Oxford realists such as Cook Wilson and the early Prichard but also by Cambridge realists such as Moore. That sense perception is a form of knowing was variously articulated by its proponents. For present purposes it suffices to consider the following interpretation of the doctrine. Perception, conceived as a form of knowing, is a sensory mode of awareness that makes the subject knowledgeable of its object. In being so aware of an object, the subject is in a position to know certain things about it, depending, of course, on the subject's possession and exercise of the appropriate recognitional and conceptual capacities.
+
+Suppose, then, that perception is a form of knowing in the sense that it makes the subject knowledgeable of its object. In perceiving an object, one is in a position to know various things about the object perceived. If knowledge is always knowledge of a mind-independent subject matter, and the objects of perception are at least potential objects of knowledge, then it follows that the objects of perception are themselves independent of the act of perceiving. In this way the doctrine that sensing is a form of knowing allows the realist conception of knowledge to have implications for how sense perception is properly conceived in light of it.
+
+Working out the demands of the realist conception of knowledge on the nature of perception was subject to internal and external pressures. One significant internal pressure concerns a special feature of the Cook Wilsonian conception of knowledge:
+
+> The consciousness that the knowing process is a knowing process must be contained within the knowing process itself. Statement and Inference, 107
+
+> [knowledge cannot be one of] two states of mind ... the correct and the erroneous one ... quite indistinguishable to the man himself. [For] as the man does not know in the erroneous state of mind,neither can he know in the other state. Statement and Inference, 107 
+
+Prichard himself accepts this commitment: 
+
+> Consider instances: when knowing,for example,that a noise we are hearing is loud, we do or can know that we are knowing this and so cannot be mistaken,and when believing that the noise is due to a car we know or can know that we are believing and not knowing this. “History of the Theory of Knowing”, Knowledge and Perception, 89
+
+
+
 # Cook Wilson on perception
 
-Cook Wilson's discussion of realism focused primarily on knowledge. Indeed, Cook Wilson never published on perception. The main source of his views on perception is a letter he wrote responding to Stout's "Primary and Secondary Qualities". However, to bring out some of the connections between his realist conception of knowledge and his views about perception, it is useful to begin with a letter of 6 January 1904 to Prichard.
+Cook Wilson never published on perception. The main source of his views on perception is a letter he wrote responding to Stout's "Primary and Secondary Qualities". However, to bring out some of the connections between his realist conception of knowledge and his views about perception, it is useful to begin with a letter of 6 January 1904 to Prichard.
 
 There Cook Wilson discusses two variants of a fundamental fallacy concerning knowledge or apprehension.
 
 The first variant is the idealist attempt to understand knowledge as an activity. If knowledge is an activity, then in knowing something a subject must *do* something to the object known. But this, Cook Wilson claims, is absurd. The object of knowledge must be independent of the subject's knowing it, if coming to know is to be a discovery: 
 
->You can no more act upon the object by knowing it than you can 'please the Dean and Chapter by stroking to dome of St. Paul's'. THe man who first discovered the equable curvature meant equidistance from a point didn't supposed that he 'produced' the truth---that absolutely contradicts the idea of truth---nor that he changed the nature of the circle or curvature, or of the straight line, or of anything spatial.
+> You can no more act upon the object by knowing it than you can 'please the Dean and Chapter by stroking to dome of St. Paul's'. THe man who first discovered the equable curvature meant equidistance from a point didn't supposed that he 'produced' the truth---that absolutely contradicts the idea of truth---nor that he changed the nature of the circle or curvature, or of the straight line, or of anything spatial.
 
 The second variant is the representative realist's attempt to understand knowledge and apprehension in terms representation. Whereas the idealist attempts to explain apprehension in terms of apprehending, the representative realist attempts to explain apprehension in terms of the object apprehended, in the present instance, an idea or some other representation. The problem is that this merely pushes the problem back a level:
 
@@ -80,9 +108,9 @@ How does Cook Wilson's criticism of representative realism in terms of the perso
 
 ## Idealism
 
-Like Moore, Cook Wilson emphasizes the distinction between the object of perception and the act of perceiving. In perceiving an object, the object appears to the subject, and so the subjective act of perceiving is sometimes described as an *appearance*. Given the distinction between the object perceived and the act of perceiving, an appearance, so understood is necessarily distinguished from the object. However, Cook Wilson claims that this nominalization can result in a misleading misleading 'objectification' of appearing:
+Like Moore, Cook Wilson emphasizes the distinction between the object of perception and the act of perceiving. In perceiving an object, the object appears to the subject, and so the subjective act of perceiving is sometimes described as an *appearance*. Given the distinction between the object perceived and the act of perceiving, an appearance, so understood is necessarily distinguished from the object. However, Cook Wilson warns against a misleading 'objectification' of appearing:
 
-> But next the *appearance*, though properly the appear*ing* of the object, gets to be looked on as itself an object and the immediate object of consciousness, and being already, as we have seen, distinguished from the object and related to our subjectivity, becomes, so to say, a mere subjective 'object'---'appearance' in that sense. And so, as *appearance* of the object, it has now to be represented not as the object but as the phenomenon caused in our consciousness by the object. Thus for the true appearance (=appearing) to us of the *object* is substituted, through the 'objectification' of the appearing as appearance, the appearing to us of an *appearance*, the appearing of a phenomenon caused in us by the object. 796
+> But next the *appearance*, though properly the appear*ing* of the object, gets to be looked on as itself an object and the immediate object of consciousness, and being already, as we have seen, distinguished from the object and related to our subjectivity, becomes, so to say, a mere subjective 'object'---'appearance' in that sense. And so, as *appearance* of the object, it has now to be represented not as the object but as the phenomenon caused in our consciousness by the object. Thus for the true appearance (=appearing) to us of the *object* is substituted, through the 'objectification' of the appearing as appearance, the appearing to us of an *appearance*, the appearing of a phenomenon caused in us by the object. Statement and Inference 796
 
 If perceptual appearances are "the appearing of a phenomenon caused in us by the object", then it would be impossible to discover how things stand on the basis of perception:
 
