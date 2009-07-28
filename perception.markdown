@@ -1,6 +1,6 @@
 # Introduction
 
-Oxford discussions of realism, conceived as an alternative to idealism, were largely framed in terms of knowledge. However a concern for realism animated Oxford reflection on perception as well. Indeed, the core claims about knowledge have perceptual analogues. 
+<!-- Oxford discussions of realism, conceived as an alternative to idealism, were largely framed in terms of knowledge. However a concern for realism animated Oxford reflection on perception as well. Indeed, the core claims about knowledge have perceptual analogues. 
 
 The fundamental realist (or anti-idealist) commitment common to both Oxford and Cambridge realism is a thesis about the objects of knowledge:
 
@@ -16,7 +16,7 @@ Second is disjunctivism or anti-hybridism about knowledge, the idea that there i
 
 One strand of Oxford reflection on perception involved working out parallel theses about perception. And again, it is a concern about realism that is motivating. Begin with the realist conception of knowledge.  The question then will be: What must perception be like if we can know something about an object by seeing it? What must perception be if it can make us knowledgeable of a subject matter independent of the mind?
 
-Another strand of Oxford reflection on perception involves a tension within the conception of knowledge held by early Oxford realists. Cook Wilson and Prichard both held
+Another strand of Oxford reflection on perception involves a tension within the conception of knowledge held by early Oxford realists. Cook Wilson and Prichard both held -->
 
 # Cook Wilson on perception
 
