@@ -10,21 +10,15 @@ This is a thesis about knowledge, not perception. What connects the fundamental 
 
 > Sense perception is a form of knowing.  
 
-That sense perception is a form of knowing was held not only by the Oxford realists such as Cook Wilson and the early Prichard but also by Cambridge realists such as Moore. That sense perception is a form of knowing was variously articulated by its proponents. For present purposes it suffices to consider the following interpretation of the doctrine. Perception, conceived as a form of knowing, is a sensory mode of awareness that makes the subject knowledgeable of its object. In being so aware of an object, the subject is in a position to know certain things about it, depending, of course, on the subject's possession and exercise of the appropriate recognitional and conceptual capacities.
+That sense perception is a form of knowing was held not only by the Oxford realists such as Cook Wilson and the early Prichard but also by Cambridge realists such as Moore. Its proponents provide different determinate interpretations of the doctrine. For present purposes it suffices to consider the following interpretation. Perception, conceived as a form of knowing, is a sensory mode of awareness that makes the subject knowledgeable of its object. In being so aware of an object, the subject is in a position to know certain things about it, depending, of course, on the subject's possession and exercise of the appropriate recognitional and conceptual capacities.
 
 Suppose, then, that perception is a form of knowing in the sense that it makes the subject knowledgeable of its object. In perceiving an object, one is in a position to know various things about the object perceived. If knowledge is always knowledge of a mind-independent subject matter, and the objects of perception are at least potential objects of knowledge, then it follows that the objects of perception are themselves independent of the act of perceiving. In this way the doctrine that sensing is a form of knowing allows the realist conception of knowledge to have implications for how sense perception is properly conceived in light of it.
 
-Working out the demands of the realist conception of knowledge on the nature of perception was subject to internal and external pressures. One significant internal pressure concerns a special feature of the Cook Wilsonian conception of knowledge:
+Working out the demands of the realist conception of knowledge on the nature of perception was subject to internal and external pressures. 
 
-> The consciousness that the knowing process is a knowing process must be contained within the knowing process itself. Statement and Inference, 107
+Internally, the core features of the realist conception of knowledge get differently conceived by different authors, in a process of refinement and extension, and so the demands that conception of knowledge places on the nature of perception are themselves reconceived. Importantly, at least one aspect of Cook Wilson's epistemology, an aspect endorsed by Prichard and rejected by Austin, turns out to be inconsistent with the idea that sense perception makes the subject knowledgeable of a mind-independent subject matter. 
 
-> [knowledge cannot be one of] two states of mind ... the correct and the erroneous one ... quite indistinguishable to the man himself. [For] as the man does not know in the erroneous state of mind,neither can he know in the other state. Statement and Inference, 107 
-
-Prichard himself accepts this commitment: 
-
-> Consider instances: when knowing,for example,that a noise we are hearing is loud, we do or can know that we are knowing this and so cannot be mistaken,and when believing that the noise is due to a car we know or can know that we are believing and not knowing this. “History of the Theory of Knowing”, Knowledge and Perception, 89
-
-
+Externally, Oxford reflection on perception is subject to alien influences, in particular Cantibrigian and Viennese influences. Thus Price comes to Oxford from Cambridge where he was Moore's student. Paul comes to Oxford from Cambridge as well but studied with Wittgenstein. And Ayer, given Ryle's encouragement, studied for a time with the logical positivists in Vienna. Incorporating the insights and resisting the challenges posed by these alien influences play an important part in the development of philosophy of perception in Oxford.
 
 # Cook Wilson on perception
 
