@@ -1,25 +1,5 @@
 # Introduction
 
-<!-- Oxford discussions of realism, conceived as an alternative to idealism, were largely framed in terms of knowledge. However a concern for realism animated Oxford reflection on perception as well. Indeed, the core claims about knowledge have perceptual analogues. 
-
-The fundamental realist (or anti-idealist) commitment common to both Oxford and Cambridge realism is a thesis about the objects of knowledge:
-
-> The objects of knowledge are independent of the act of knowing.
-
-Two further theses about knowledge distinguish Oxford realism from its Cantibrigian counterpart. First is the idea that knowledge is unmistakable. 
-
-> Knowing that p rules out the possibility that not p
-
-Second is disjunctivism or anti-hybridism about knowledge, the idea that there is no common factor between knowledge and belief
-
-> 
-
-
-
-Another strand of Oxford reflection on perception involves a tension within the conception of knowledge held by early Oxford realists. Cook Wilson and Prichard both held -->
-
-Oxford realists framed the issue with their idealist opponents primarily in terms of knowledge. 
-
 A concern for realism motivates a fundamental strand of Oxford reflection on perception. Begin with the realist conception of knowledge.  The question then will be: What must perception be like if we can know something about an object by seeing it? What must perception be if it can make us knowledgeable of a subject matter independent of the mind? The resulting conception of perception is not unlike the conception of perception shared by Cambridge realists such as Russell and Moore. Roughly speaking, perception is conceived to be a fundamental and irreducible mode of sensory awareness of a mind-independent subject matter, a mode of awareness that enables the subject to have propositional knowledge of that subject matter.
 
 One key thesis that frames the realist conception of perception is the fundamental realist (or anti-idealist) commitment common to Cook Wilson and Moore:
