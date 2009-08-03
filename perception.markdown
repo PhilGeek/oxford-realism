@@ -22,7 +22,7 @@ Externally, Oxford reflection on perception is subject to alien influences, in p
 
 # Cook Wilson on perception
 
-Cook Wilson never published on perception. The main source of his views on perception is a letter of July 1904 criticizing Stout's "Primary and Secondary Qualities". To bring out some of the connections between his realist conception of knowledge and his views about perception, it is useful to begin, however, with an earlier letter of January 1904 to Prichard. There Cook Wilson discusses two variants of a fundamental fallacy concerning knowledge or apprehension.
+Cook Wilson never published on perception. The main source of his views on perception is a letter of July 1904 criticizing Stout's "Primary and Secondary Qualities". To highlight the connections between his realist conception of knowledge and his views about perception, it is useful to begin, however, with an earlier letter of January 1904 to Prichard. There Cook Wilson discusses two variants of a fundamental fallacy concerning knowledge or apprehension.
 
 The first variant is the idealist attempt to understand knowledge as an activity. If knowledge is an activity, then in knowing something a subject must *do* something to the object known. But this, Cook Wilson claims, is absurd. The object of knowledge must be independent of the subject's knowing it, if coming to know is to be a discovery: 
 
@@ -36,9 +36,9 @@ In what sense are the fallacies of explaining apprehension in terms of apprehend
 
 > Perhaps most fallacies in the theory of knowledge are reduced to the primary one of trying to *explain* the nature of knowledge or apprehending. We cannot *construct knowing*---the act of apprehending---out of any elements. I remember quite early in my philosophic reflection having an instinctive aversion to the very expression '*theory* of knowledge'. I felt the words themselves suggested a fallacy---an utterly fallacious inquiry, though I was not anxious to proclaim <it>.
 
-This is a clear statement of the disjunctivism or anti-hybridism about knowledge that McDowell and Williamson will later defend. So conceived, knowledge is not belief that meets certain conditions---they share no common factor. Cook Wilson's skepticism about the "theory of knowledge" is best understood as skepticism about explaining knowledge in terms of constructing it out of elements, and this skepticism will be echoed by Prichard, Ryle, and Austin and in precisely these terms.
+This is a clear statement of the disjunctivism or anti-hybridism about knowledge that McDowell and Williamson will later defend. So conceived,there is no common factor between belief and knowledge---knowledge is not constructed from belief that meets further conditions. Cook Wilson's skepticism about the "theory of knowledge" is best understood as skepticism about explaining knowledge in terms of constructing it out of elements, and this skepticism will be echoed by Prichard, Ryle, and Austin and in precisely these terms.
 
-Suppose that perception makes the subject knowledgeable of a mind-independent subject matter. Suppose further that the knowledge the subject is in a position to acquire is cannot be explained or constructed out of elements. What must perception be like to make us knowledgeable of the environment in that sense? Must perception itself be disjunctive? Does Cook Wilson himself endorse disjunctivism about perception? In his letter to Stout he does defend a conception of perception as the direct apprehension of objects spatially external to the perceiving subject, and in the letter to Prichard he does at one point speak indifferently of knowledge, apprehension, and *perception*. If the main conclusions of that letter are meant to apply to all three, then Cook Wilson is a disjunctivist about knowledge, apprehension, and perception. Neither consideration is decisive. More telling, however, is that the variant fallacies of explaining apprehension in terms apprehending and in terms of the object apprehended are echoed in the letter to Stout on perception and, indeed, form the core of its content (though there is much more that is of interest besides---the letter to Stout is a particularly rich discussion with lots of detailed argumentation). In particular, both idealist and representative realist accounts of perception are criticized in line with the two variant fallacies concerning knowledge or apprehension.
+Suppose that perception makes the subject knowledgeable of a mind-independent subject matter. Suppose further that the knowledge the subject is in a position to acquire is cannot be explained or constructed out of elements. What must perception be like to make us knowledgeable of the environment in that sense? Must perception itself be disjunctive? Does Cook Wilson himself endorse disjunctivism about perception? In his letter to Stout he does defend a conception of perception as the direct apprehension of objects spatially external to the perceiving subject, and in the letter to Prichard he does at one point speak indifferently of knowledge, apprehension, and *perception*. If the main conclusions of that letter are meant to apply to all three, then Cook Wilson is a disjunctivist about knowledge, apprehension, and perception. Neither consideration is decisive. More telling, however, is that the variant fallacies of explaining apprehension in terms apprehending and in terms of the object apprehended are echoed in the letter written later that year to Stout on perception and, indeed, form the core of its content (though there is much more that is of interest besides---the letter to Stout is a particularly rich discussion with lots of detailed argumentation). In particular, both idealist and representative realist accounts of perception are criticized in line with the two variant fallacies concerning knowledge or apprehension.
 
 ## Idealism
 
@@ -54,9 +54,7 @@ This straightforwardly parallels the first variant fallacy of explaining apprehe
 
 ## Representative Realism
 
-Cook Wilson singles out for criticism Stout's claim that the sensations which mediate knowledge of external qualities such as extension do so only in so far as "they represent, express, or stand for something other than themselves".
-
-The most fundamental issue consists in negative and positive claims about the nature of representation. The negative claim is that nothing is intrinsically representational:
+Cook Wilson singles out for criticism Stout’s claim that the sensations which mediate knowledge of external qualities such as extension do so only in so far as “they represent, express, or stand for something other than themselves”. The basis of of his criticism involves negative and positive claims about the nature of representation. The negative claim is that nothing is intrinsically representational:
 
 > Nothing has *meaning* in itself. 
 
@@ -64,20 +62,13 @@ Presumably this was an effective point against those of his contemporaries who h
 
 > Representation is our subjective act. ... It is *we* who mean. 
 
-Representation is *personal*. It is *we* who mean. So conceived, representation is something that the subject *does*. 
+According to Cook Wilson, then, representation is *personal*. It is *we* who mean. So conceived, representation is something that the subject *does*. 
 
-Cook Wilson draws a distinction between two different natural relations that ground different notions of representation:
+How, according to Stout, might the sensation of extension "represent, express, or stand for" extension. Plausibly they might in two ways: by *resembling* extension or by necessarily covarying with the presentation of extension. 
 
-1. A may represent B because A *resembles* B
-2. A may represent B because the existence of A *necessarily covaries* with B
-
-These are not two analyses of different notions of representation since this would result in an impersonal conception of representation. Mimesis and necessary covariation are merely natural relations that *incline* us to represent things by means of them---they are merely relations that can be exploited by a subject's representational ends:
+However, the natural relations of mimesis and necessary covariation are *impersonal*---they obtain independently of anything that the subject does. If it is *we* who mean, if representation is something that a subject does, then the natural relations of mimesis and necessary covariation could not be what makes a sensation represent and external quality. These are not two analyses of different notions of representation, mimesis and necessary covariation are merely natural relations that *incline* us to represent things by means of them---they are merely relations that can be exploited by a subject's representational ends:
 
 > It is we who make the weeping willow a symbol of sorrow. There may of course be something in the object which prompts us to give it a meaning, e.g., the resemblance of the weeping willow to a human figure bowed over in the attitude of grief. But the willow in itself can neither 'mean' grief, nor 'represent' nor 'stand for' nor 'express' grief. *We* do all that. (*Statement and Inference*, 770)
-
-First, Cook Wilson emphasizes the symmetry of these relations. If A resembles B in some respect, B resembles A in that respect. If A necessarily covaries with B, B necessarily covaries with A. This undermines the asymmetry between Stout's talk of a sense-representation and what it represents. The sensation of extension represents the perceived body's extension, but the body's extension does not represent the subject's sensation. Or rather, if that asymmetry is sustained, this is evidence of a further assumption in play. Specifically, if A represents B without B representing A this is because A but not B is "present to consciousness". To bring to light how the personal conception of representation is at work here consider the following. Suppose that Stout is working with an impersonal notion of representation (though he shouldn't, at least by Cook Wilson's lights). If Stout is working with an impersonal notion of representation then the the external world could (impersonally) represent the sensation, it is just not a relation that anyone could exploit.
-
-Second, if we consider sensations as representative this must be so either on the grounds of likeness or covariation with extension. We must already be acquainted with the likeness or know the covariation. But this is impossible if the mediation of our knowledge of extension by sensation means that we depend on such sensations for our knowledge of extension. Warnock will make a related remark, "To decide that a portrait is a good likeness of a man, I must look both at the portrait and the man." Why does Cook Wilson require that we know of the likeness or covariation if the likeness or covariation is to represent? Advocates of certain forms of naturalized semantics, such as Fodor's correlational psychosemantics, would deny any such epistemic assumption. So would reliabilists like Goldman who maintain that what confers justification on belief is that it is formed by a reliable belief forming mechanism, not that we know that it is so formed. I suspect that here too, the personal conception of representation is at work, at least implicitly. The restriction that we should know of the relevant natural relations flows form the thought that it is only if we know of such relations that we could exploit them for our representational ends.
 
 How does Cook Wilson's criticism of representative realism in terms of the personal conception of representation relate to the "fallacy" described in the letter to Prichard? The weeping willow resembles a human figure bowed over in the attitude of grief. This presents a subject with an opportunity to exploit that resemblance for their own representational ends, at least if they are apprised of that resemblance. In using the willow to represent grief, the subject apprehends the content of that representation. And that, according to Cook Wilson, is precisely what prevents representation from figuring in an explanation of perceptual apprehension. Any such explanation would be circular and, hence, no explanation at all.
 
@@ -87,9 +78,7 @@ The evidence is not decisive. However, even if we were convinced that Cook Wilso
 
 # Prichard on the Sense Datum Fallacy
 
-Cook Wilson does not provide neither a theory of perception nor of the nature of appearances. However, Prichard's theory of appearing builds on some of Cook Wilson's insights. Following Cook Wilson, Prichard holds that the object of perception, like the object of knowledge, must be independent of the act of perceiving, and that an appearance is properly understood as an appearing of a mind-independent object to the perceiving subject. Prichard thus opposes any conception of appearance, such as Kant's, where appearances are states of a subject produced by external objects.
-
-For Prichard, canonical appearance attributions take the following form:
+Cook Wilson provides neither a theory of perception nor of the nature of appearances. However, Prichard's theory of appearing builds on some of Cook Wilson's insights. Following Cook Wilson, Prichard holds that the object of perception, like the object of knowledge, must be independent of the act of perceiving, and that an appearance is properly understood as an appearing of a mind-independent object to the perceiving subject. Prichard thus opposes any conception of appearance, such as Kant's, where appearances are states of a subject produced by external objects. For Prichard, canonical appearance attributions take the following form:
 
 > o appears F
 
@@ -101,18 +90,36 @@ Prichard makes five central claims about appearances described by canonical appe
 4. The external spatial body o is the object of perception in virtue of which o appears.
 5. Our perception of o enables us to apprehend o and so come to know about it.
 
-At least ever since "Seeing Movement" written in 1921, Prichard abandons the theory of appearing. Specifically, he denies that bodies are the object of perception, and he denies that perception is a species of knowledge.
-
-While Prichard primarily casts his discussion in terms of *knowledge*, various writers are held to be committed to the thesis that perception is a species of knowledge if in perceiving something the subject *apprehends* it, is *conscious* of it, or is *aware* of it. There are important differences between these notions---while some of these attitudes take propositional objects others take non-propositional objects. In what sense is perception a form of knowing? So conceived, perception is a sensuous mode of awareness that makes the subject *knowledgeable* of its object. In being so aware of an object, the subject is in a position to know certain things about it---depending, of course, on the subject’s possession and exercise of the appropriate recognitional capacities.
-
-Prichard observes that contemporary writers agree with Berkeley that the object's of perception are secondary qualities. But they maintain, instead, that these are sense data. And as a consequence, certain questions arise about the nature of sense data, that do not arise if secondary qualities are understood as sensations. Moreover, the substitution of sense data for sensations is fallacious in the sense that it depends on the false thesis that perception is a species of knowledge.
+However, from at least since "Seeing Movement" written in 1921, Prichard abandons the theory of appearing. Specifically, he comes to deny that the objects of perception are mind-independent objects located in space, coming to favor, instead, a Berkelean conception of perception where the objects of perception depend on our perceptual experience of them. At the hear of this change of mind is a doubt about whether perception could be a form of knowing.
 
 Among the arguments against the thesis that perception is a form of knowledge, Prichard gives the following two:
 
-1. The supposition that the objects of perception exist independently of our perceiving them raises substantive metaphysical questions that admit of no determinate answers.
-2. If perceiving were a kind of knowing, mistakes would not be possible, but they are.
+1. If perceiving were a kind of knowing, mistakes would not be possible, but they are.
+2. The supposition that the objects of perception exist independently of our perceiving them raises substantive metaphysical questions that admit of no determinate answers.
 
-The first is explicitly derived from G.A. Paul, and the second derives from a peculiar feature of the Cook Wilsonian conception of knowledge. Both present important morals for Oxford realism, if it is to be sustained.
+The first derives from a peculiar feature of the Cook Wilsonian conception of knowledge, and the second is explicitly derived from G.A. Paul. Both present important morals for Oxford realism. The moral of the first argument is that a feature of Cook Wilsonian conception of knowledge must be abandoned if Oxford realism is to be sustained. The moral of the second argument is that the realist conception of knowledge requires a disjunctivist conception of perception (though and will take the work of Austin and Hinton to begin to vindicate this).
+
+## The Accretion
+
+The first argument can seem like a variant of the argument from illusion (though it really has a very different character): 
+
+> ... if perceiving were a kind of knowing, mistakes about what we perceive would be impossible, and yet they are constantly being made, since at any rate in the cases of seeing and feeling or touching we are almost always in a state of thinking that what we are perceiving are various bodies, although we need only to reflect to discover that in this we are mistaken. 
+
+The passage is frustrating in its lack of explicitness. Indeed in the last line Prichard seems to echo Hume’s contention that it takes the slightest bit of philosophy to show that naïve realism is false. 
+
+Light can be shed on this argument, however, by considering a problematic feature of Cook Wilson's conception of knowledge:
+
+> The consciousness that the knowing process is a knowing process must be contained within the knowing process itself. *Statement and Inference* 107
+>
+> [knowledge cannot be one of] two states of mind ... the correct and the erroneous one ... quite indistinguishable to the man himself. [For] as the man does not know in the erroneous state of mind, neither can he know in the other state. *Statement and Inference*, 107
+
+Prichard himself accepts this commitment: 
+
+> Consider instances: when knowing, for example, that a noise we are hearing is loud, we do or can know that we are knowing this and so cannot be mistaken, and when believing that the noise is due to a car we know or can know that we are believing and not knowing this. “History of the Theory of Knowing”, Knowledge and Perception, 89
+
+Prichard's argument can be reconstructed as follows. If perception were a species of knowledge, it would contain within itself the knowing process. Whatever that means more precisely, it at least entails that in perceiving something we know that we perceive it. Conversely, if we do not perceive something then we know that we do not. But now consider that we naturally take ourselves to perceive bodies. However, we do not perceive bodies---"we need only to reflect to discover that in this we are mistaken". If perception were really, then, a form of knowledge we would know that we are not perceiving bodies. And, hence, perception is not a form of knowledge.
+
+This argument reveals a tension within the Oxford realism of Cook Wilson and early Prichard. If Cook Wilson and early Prichard were right in claiming that the objects of knowledge are mind-independent objects open to investigation, and the objects of perception are at least potential objects of knowledge, then these claims can only be sustained by abandoning the problematic feature of the Cook Wilsonian conception of knowledge. Indeed, it is telling that Austin jettison's this feature of Cook Wilson's conception of knowledge.
 
 ## Paul on Sense Data
 
