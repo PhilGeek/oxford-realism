@@ -1,13 +1,62 @@
+%!TEX TS-program = xelatex 
+%!TEX TS-options = -synctex=1 -output-driver="xdvipdfmx -q -E"
+%!TEX encoding = UTF-8 Unicode
+%
+%  perception
+%
+%  Created by Mark Eli Kalderon on 2009-08-08.
+%
+
+\documentclass[11pt]{article} 
+
+% Definitions
+\newcommand\myauthor{Mark Eli Kalderon and Charles Travis} 
+\newcommand\mytitle{Perception}
+
+% Packages
+\usepackage{url}
+\usepackage{txfonts}
+
+% XeTeX
+\usepackage[cm-default]{fontspec}
+\usepackage{xltxtra,xunicode}
+\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
+\setmainfont{Hoefler Text}
+\setsansfont{Gill Sans}
+\setmonofont{Inconsolata}
+
+% Bibliography
+\usepackage[round]{natbib}
+
+% Title Information
+\title{\mytitle}
+\author{\myauthor} 
+% \date{} % Leave blank for no date, comment out for most recent date
+
+% PDF Stuff
+\usepackage[plainpages=false, pdfpagelabels, bookmarksnumbered, backref, pdftitle={\mytitle}, pagebackref, pdfauthor={\myauthor}, xetex, colorlinks=true, linkcolor=gray, urlcolor=gray]{hyperref}
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+% Title Page
+\maketitle
+
+% Layout Settings
+\setlength{\parindent}{1em}
+
+% Main Content
+
 A concern for realism motivates a fundamental strand of Oxford reflection on perception. Begin with the realist conception of knowledge.  The question then will be: What must perception be like if we can know something about an object by seeing it? What must perception be if it can make us knowledgeable of a subject matter independent of the mind? The resulting conception of perception is not unlike the conception of perception shared by Cambridge realists such as Russell and Moore. Roughly speaking, perception is conceived to be a fundamental and irreducible mode of sensory awareness of a mind-independent subject matter, a mode of awareness that enables the subject to have propositional knowledge of that subject matter.
 
 Framing the discussion is the fundamental realist (or anti-idealist) commitment common to Cook Wilson and Moore:
-
-> The objects of knowledge are independent of the act of knowing.
-
+\begin{quote}
+	The objects of knowledge are independent of the act of knowing.
+\end{quote}
 This is a thesis about knowledge, not perception. What connects the fundamental realist commitment to perception is the following doctrine:
-
-> Perception is a form of knowing.  
-
+\begin{quote}
+	Perception is a form of knowing.  
+\end{quote}
 That perception is a form of knowing was held not only by the Oxford realists such as Cook Wilson and the early Prichard but also by Cambridge realists such as Moore. While differently interpreted by its proponents, for present purposes, it suffices to consider the following interpretation. Perception, conceived as a form of knowing, is a sensory mode of awareness that makes the subject knowledgeable of its object. In being so aware of an object, the subject is in a position to know certain things about it, depending, of course, on the subject's possession and exercise of the appropriate recognitional capacities.
 
 Suppose, then, that perception is a form of knowing in the sense that it makes the subject knowledgeable of its object. If knowledge is always knowledge of a mind-independent subject matter, and the objects of perception are at least potential objects of knowledge, then it follows that the objects of perception are themselves independent of the act of perceiving. In this way the doctrine that perception is a form of knowing allows the realist conception of knowledge to have implications for how perception is properly conceived in light of it.
@@ -18,91 +67,93 @@ Internally, the core features of the realist conception of knowledge get differe
 
 Externally, Oxford reflection on perception is subject to alien influences, in particular Cantibrigian and Viennese influences. Thus Price comes to Oxford from Cambridge where he was Moore's student. Paul comes to Oxford from Cambridge as well but studied with Wittgenstein. And Ayer, given Ryle's encouragement, studied for a time with the logical positivists in Vienna. Incorporating the insights and resisting the challenges posed by these alien influences play an important part in the development of philosophy of perception in Oxford.
 
-Cook Wilson never published on perception. The main source of his views on perception is a letter of July 1904 criticizing Stout's "Primary and Secondary Qualities". To highlight the connections between his realist conception of knowledge and his views about perception, it is useful to begin, however, with an earlier letter of January 1904 to Prichard. There Cook Wilson discusses two variants of a fundamental fallacy concerning knowledge or apprehension.
+Cook Wilson never published on perception. The main source of his views on perception is a letter of July 1904 criticizing Stout's ``Primary and Secondary Qualities''. To highlight the connections between his realist conception of knowledge and his views about perception, it is useful to begin, however, with an earlier letter of January 1904 to Prichard. There Cook Wilson discusses two variants of a fundamental fallacy concerning knowledge or apprehension.
 
-The first variant is the idealist attempt to understand knowledge as an activity. If knowledge is an activity, then in knowing something a subject must *do* something to the object known. But this, Cook Wilson claims, is absurd. The object of knowledge must be independent of the subject's knowing it, if coming to know is to be a discovery: 
-
-> You can no more act upon the object by knowing it than you can 'please the Dean and Chapter by stroking to dome of St. Paul's'. The man who first discovered the equable curvature meant equidistance from a point didn't supposed that he 'produced' the truth---that absolutely contradicts the idea of truth---nor that he changed the nature of the circle or curvature, or of the straight line, or of anything spatial.
+The first variant is the idealist attempt to understand knowledge as an activity. If knowledge is an activity, then in knowing something a subject must \emph{do} something to the object known. But this, Cook Wilson claims, is absurd. The object of knowledge must be independent of the subject's knowing it, if coming to know is to be a discovery: 
+\begin{quote}
+	You can no more act upon the object by knowing it than you can `please the Dean and Chapter by stroking to dome of St. Paul's'. The man who first discovered the equable curvature meant equidistance from a point didn't supposed that he `produced' the truth---that absolutely contradicts the idea of truth---nor that he changed the nature of the circle or curvature, or of the straight line, or of anything spatial.
+\end{quote}
 
 The second variant is the representative realist's attempt to understand knowledge and apprehension in terms representation. Whereas the idealist attempts to explain apprehension in terms of apprehending, the representative realist attempts to explain apprehension in terms of the object apprehended, in the present instance, an idea or some other representation. The problem is that this merely pushes the problem back a level:
+\begin{quote}
+	The chief fallacy of this is not so much the impossibility of knowing such image is like the object, or that there is any object at all, but that it assumes the very thing it is intended to explain. The image itself has still to be \emph{apprehended} and the difficulty is only repeated.
+\end{quote}
 
-> The chief fallacy of this is not so much the impossibility of knowing such image is like the object, or that there is any object at all, but that it assumes the very thing it is intended to explain. The image itself has still to be *apprehended* and the difficulty is only repeated.
-
-In what sense are the fallacies of explaining apprehension in terms of apprehending and in terms of the object of apprehension variants of the same fallacy? The are variants of the same fallacy in that both attempt to *explain* knowledge or apprehension:
-
-> Perhaps most fallacies in the theory of knowledge are reduced to the primary one of trying to *explain* the nature of knowledge or apprehending. We cannot *construct knowing*---the act of apprehending---out of any elements. I remember quite early in my philosophic reflection having an instinctive aversion to the very expression '*theory* of knowledge'. I felt the words themselves suggested a fallacy---an utterly fallacious inquiry, though I was not anxious to proclaim <it>.
-
-This is a clear statement of the disjunctivism or anti-hybridism about knowledge that McDowell and Williamson will later defend. So conceived, there is no common factor between belief and knowledge---knowledge is not constructed from belief that meets further conditions. Cook Wilson's aversion to the "theory of knowledge" is just an aversion to explaining knowledge by constructing it out of elements, and this skepticism will be echoed by Prichard, Ryle, and Austin and in precisely these terms.
+In what sense are the fallacies of explaining apprehension in terms of apprehending and in terms of the object of apprehension variants of the same fallacy? The are variants of the same fallacy in that both attempt to \emph{explain} knowledge or apprehension:
+\begin{quote}
+	Perhaps most fallacies in the theory of knowledge are reduced to the primary one of trying to \emph{explain} the nature of knowledge or apprehending. We cannot \emph{construct knowing}---the act of apprehending---out of any elements. I remember quite early in my philosophic reflection having an instinctive aversion to the very expression `\emph{theory} of knowledge'. I felt the words themselves suggested a fallacy---an utterly fallacious inquiry, though I was not anxious to proclaim <it>.
+\end{quote}
+This is a clear statement of the disjunctivism or anti-hybridism about knowledge that McDowell and Williamson will later defend. So conceived, there is no common factor between belief and knowledge---knowledge is not constructed from belief that meets further conditions. Cook Wilson's aversion to the ``theory of knowledge'' is just an aversion to explaining knowledge by constructing it out of elements, and this skepticism will be echoed by Prichard, Ryle, and Austin and in precisely these terms.
 
 Suppose that perception makes the subject knowledgeable of a mind-independent subject matter. Suppose further that the knowledge the subject is in a position to acquire cannot be explained or constructed out of elements. What must perception be like to make us knowledgeable of the environment in that sense? Must perception itself be disjunctive? Does Cook Wilson himself endorse disjunctivism about perception? In his letter to Stout he does defend a conception of perception as the direct apprehension of objects spatially external to the perceiving subject, and in the letter to Prichard he does at one point speak indifferently of knowledge, apprehension, and perception. If the main conclusions of that letter are meant to apply to all three, then Cook Wilson is a disjunctivist about knowledge, apprehension, and perception. Neither consideration is decisive. More telling, however, is that the variant fallacies of explaining apprehension in terms apprehending and in terms of the object apprehended are echoed in the letter written later that year to Stout on perception and, indeed, form the core of its content (though there is much more that is of interest besides---the letter to Stout is a particularly rich discussion with lots of detailed argumentation). In particular, both idealist and representative realist accounts of perception are criticized in line with the two variant fallacies concerning knowledge or apprehension. Let's onsider these in turn.
 
-Like Moore, Cook Wilson emphasizes the distinction between the object of perception and the act of perceiving. In perceiving an object, the object appears to the subject, and so the subjective act of perceiving is sometimes described as an *appearance*. Given the distinction between the object perceived and the act of perceiving, an appearance, so understood is necessarily distinguished from the object. However, Cook Wilson warns against a misleading 'objectification' of appearing:
+Like Moore, Cook Wilson emphasizes the distinction between the object of perception and the act of perceiving. In perceiving an object, the object appears to the subject, and so the subjective act of perceiving is sometimes described as an \emph{appearance}. Given the distinction between the object perceived and the act of perceiving, an appearance, so understood is necessarily distinguished from the object. However, Cook Wilson warns against a misleading ``objectification'' of appearing:
+\begin{quote}
+	But next the \emph{appearance}, though properly the appear*ing* of the object, gets to be looked on as itself an object and the immediate object of consciousness, and being already, as we have seen, distinguished from the object and related to our subjectivity, becomes, so to say, a mere subjective `object'---'appearance' in that sense. And so, as \emph{appearance} of the object, it has now to be represented not as the object but as the phenomenon caused in our consciousness by the object. Thus for the true appearance (=appearing) to us of the *object* is substituted, through the `objectification' of the appearing as appearance, the appearing to us of an \emph{appearance}, the appearing of a phenomenon caused in us by the object. Statement and Inference 796
+\end{quote}
 
-> But next the *appearance*, though properly the appear*ing* of the object, gets to be looked on as itself an object and the immediate object of consciousness, and being already, as we have seen, distinguished from the object and related to our subjectivity, becomes, so to say, a mere subjective 'object'---'appearance' in that sense. And so, as *appearance* of the object, it has now to be represented not as the object but as the phenomenon caused in our consciousness by the object. Thus for the true appearance (=appearing) to us of the *object* is substituted, through the 'objectification' of the appearing as appearance, the appearing to us of an *appearance*, the appearing of a phenomenon caused in us by the object. Statement and Inference 796
-
-If perceptual appearances are "the appearing of a phenomenon caused in us by the object", then it would be impossible for a subject to come to know about the mind-independent object on the basis of its perceptual appearance and hence impossible to discover how things stand with a mind-independent subject matter by perceiving:
-
-> It must be observed that the result of this is that there could be no direct perception or consciousness of Reality under any circumstances or any condition of knowing or perceiving: for the whole view is developed entirely from the fact that the object is distinct from our act of knowing it or recognizing it, which distinction must exist in any kind of knowing it or perceiving it. From this error would necessarily result a mere subjective idealism. Reality would become an absolutely unknowable 'Thing in Itself', and finally disappear altogether (as with Berkeley) as an hypothesis that we could not possibly justify.
-
+If perceptual appearances are ``the appearing of a phenomenon caused in us by the object'', then it would be impossible for a subject to come to know about the mind-independent object on the basis of its perceptual appearance and hence impossible to discover how things stand with a mind-independent subject matter by perceiving:
+\begin{quote}
+	It must be observed that the result of this is that there could be no direct perception or consciousness of Reality under any circumstances or any condition of knowing or perceiving: for the whole view is developed entirely from the fact that the object is distinct from our act of knowing it or recognizing it, which distinction must exist in any kind of knowing it or perceiving it. From this error would necessarily result a mere subjective idealism. Reality would become an absolutely unknowable `Thing in Itself', and finally disappear altogether (as with Berkeley) as an hypothesis that we could not possibly justify.
+\end{quote}
 This straightforwardly parallels the fallacy of explaining apprehension in terms of apprehending. 
 
-Cook Wilson singles out for criticism Stout’s claim that the sensations which mediate knowledge of external qualities such as extension do so only in so far as “they represent, express, or stand for something other than themselves”. The basis of of his criticism involves negative and positive claims about the nature of representation. The negative claim is that nothing is intrinsically representational:
-
-> Nothing has *meaning* in itself. 
-
+Cook Wilson singles out for criticism Stout’s claim that the sensations which mediate knowledge of external qualities such as extension do so only in so far as ``they represent, express, or stand for something other than themselves''. The basis of of his criticism involves negative and positive claims about the nature of representation. The negative claim is that nothing is intrinsically representational:
+\begin{quote}
+	Nothing has \emph{meaning} in itself. 
+\end{quote}
 Presumably this was an effective point against those of his contemporaries who held that ideas are intrinsically representational. The positive claim is put as follows: 
+\begin{quote}
+	Representation is our subjective act. ... It is \emph{we} who mean. 
+\end{quote}
+According to Cook Wilson, then, representation is \emph{personal}. It is \emph{we} who mean. So conceived, representation is something that the subject \emph{does}. 
 
-> Representation is our subjective act. ... It is *we* who mean. 
-
-According to Cook Wilson, then, representation is *personal*. It is *we* who mean. So conceived, representation is something that the subject *does*. 
-
-How, according to Stout, might the sensation of extension "represent, express, or stand for" extension. Plausibly it might in two ways: by *resembling* extension or by* necessarily covarying* with the presence of extension. However, the natural relations of mimesis and necessary covariation are *impersonal*---they obtain independently of anything that the subject does. If it is *we* who mean, if representation is something that a subject does, then the natural relations of mimesis and necessary covariation could not be what makes a sensation represent and external quality. These are not two analyses of different notions of representation, mimesis and necessary covariation are merely natural relations that *incline* us to represent things by means of them---they are merely relations that can be exploited by a subject's representational ends:
-
-> It is we who make the weeping willow a symbol of sorrow. There may of course be something in the object which prompts us to give it a meaning, e.g., the resemblance of the weeping willow to a human figure bowed over in the attitude of grief. But the willow in itself can neither 'mean' grief, nor 'represent' nor 'stand for' nor 'express' grief. *We* do all that. (*Statement and Inference*, 770)
-
+How, according to Stout, might the sensation of extension ``represent, express, or stand for'' extension. Plausibly it might in two ways: by \emph{resembling} extension or by \emph{necessarily covarying} with the presence of extension. However, the natural relations of mimesis and necessary covariation are \emph{impersonal}---they obtain independently of anything that the subject does. If it is \emph{we} who mean, if representation is something that a subject does, then the natural relations of mimesis and necessary covariation could not be what makes a sensation represent and external quality. These are not two analyses of different notions of representation, mimesis and necessary covariation are merely natural relations that \emph{incline} us to represent things by means of them---they are merely relations that can be exploited by a subject's representational ends:
+\begin{quote}
+	It is we who make the weeping willow a symbol of sorrow. There may of course be something in the object which prompts us to give it a meaning, e.g., the resemblance of the weeping willow to a human figure bowed over in the attitude of grief. But the willow in itself can neither `mean' grief, nor `represent' nor `stand for' nor `express' grief. \emph{We} do all that. (*Statement and Inference*, 770)
+\end{quote}
 The weeping willow resembles a human figure bowed over in the attitude of grief. This presents a subject with an opportunity to exploit that resemblance for their own representational ends, at least if they are apprised of that resemblance. In using the willow to represent grief, the subject apprehends the content of that representation. And that, according to Cook Wilson, is precisely what prevents representation from figuring in an explanation of perceptual apprehension. Any such explanation would be circular and, hence, no explanation at all. This straightforwardly parallels the fallacy of explaining apprehension in terms of the object of apprehension, an idea or representation more generally.
 
-Thus Cook Wilson's discussion of perception in his letter to Stout, parallels his discussion of knowledge in his letter to Prichard. In particular the two fallacies of explaining apprehension in terms of apprehending and in terms of the object apprehended (a representation) arise in the perceptual case as well. This raises the question whether in the perceptual case these fallacies are variants of the fundamental fallacy of trying to *explain* perception in more fundamental terms. Just as knowledge cannot be explained in terms of belief that meets further conditions, perhaps perception cannot be explained in terms of, say, experience or appearance that meets further conditions. Cook Wilson expresses his skepticism about such explanations in the case of knowledge by denying that there is any such thing as a theory of knowledge. Farquharson in the postscript to *Statement and Inference* reports a similar attitude in the perceptual case: "He came to think of a theory of Perception as philosophically preposterous". 
+Thus Cook Wilson's discussion of perception in his letter to Stout, parallels his discussion of knowledge in his letter to Prichard. In particular the two fallacies of explaining apprehension in terms of apprehending and in terms of the object apprehended (a representation) arise in the perceptual case as well. This raises the question whether in the perceptual case these fallacies are variants of the fundamental fallacy of trying to \emph{explain} perception in more fundamental terms. Just as knowledge cannot be explained in terms of belief that meets further conditions, perhaps perception cannot be explained in terms of, say, experience or appearance that meets further conditions. Cook Wilson expresses his skepticism about such explanations in the case of knowledge by denying that there is any such thing as a theory of knowledge. Farquharson in the postscript to \emph{Statement and Inference} reports a similar attitude in the perceptual case: ``He came to think of a theory of Perception as philosophically preposterous''. 
 
-The evidence is not decisive. However, even if we were convinced that Cook Wilson accepted a disjunctivist conception of perception, we would remain unclear why the realist conception of knowledge requires this. A reason begins to emerge with Prichard's case *against* the idea that perception is a form of knowing. While Prichard opposes the doctrine that links the realist conception of knowledge with the nature of perception, his discussion reveals some of what is required if one were to retain the doctrine distinctive of twentieth century realists that perception makes us knowledgeable of a mind-independent subject matter.
+The evidence is not decisive. However, even if we were convinced that Cook Wilson accepted a disjunctivist conception of perception, we would remain unclear why the realist conception of knowledge requires this. A reason begins to emerge with Prichard's case \emph{against} the idea that perception is a form of knowing. While Prichard opposes the doctrine that links the realist conception of knowledge with the nature of perception, his discussion reveals some of what is required if one were to retain the doctrine distinctive of twentieth century realists that perception makes us knowledgeable of a mind-independent subject matter.
 
 Cook Wilson provides neither a theory of perception nor of the nature of appearances. However, Prichard's theory of appearing builds on some of Cook Wilson's insights. Following Cook Wilson, Prichard holds that the object of perception, like the object of knowledge, must be independent of the act of perceiving, and that an appearance is properly understood as an appearing of a mind-independent object to the perceiving subject. Prichard thus opposes any conception of appearance, such as Kant's, where appearances are states of a subject produced by external objects. For Prichard, canonical appearance attributions take the following form:
-
-> o appears F
-
+\begin{quote}
+	o appears F
+\end{quote}
 Prichard makes five central claims about appearances described by canonical appearance-attributions:
+\begin{itemize}
+	\item o is an external body located in space.
+	\item Appearance is relational. Appearance is the presentation of o---it is o appearing F to a subject S.
+	\item The predicate F has spatial conditions of application---it is intelligibly applied only to spatial bodies.
+	\item The external spatial body o is the object of perception in virtue of which o appears.
+	\item Our perception of o enables us to apprehend o and so come to know about it.
+\end{itemize}
 
-1. o is an external body located in space.
-2. Appearance is relational. Appearance is the presentation of o---it is o appearing F to a subject S.
-3. The predicate F has spatial conditions of application---it is intelligibly applied only to spatial bodies.
-4. The external spatial body o is the object of perception in virtue of which o appears.
-5. Our perception of o enables us to apprehend o and so come to know about it.
-
-However, from at least since "Seeing Movement" written in 1921, Prichard abandons the theory of appearing. Specifically, he comes to deny that the objects of perception are mind-independent objects located in space, coming to favor, instead, a Berkelean conception of perception where the objects of perception depend on our perceptual experience of them. At the hear of this change of mind is a doubt about whether perception could be a form of knowing.
+However, from at least since ``Seeing Movement'' written in 1921, Prichard abandons the theory of appearing. Specifically, he comes to deny that the objects of perception are mind-independent objects located in space, coming to favor, instead, a Berkelean conception of perception where the objects of perception depend on our perceptual experience of them. At the hear of this change of mind is a doubt about whether perception could be a form of knowing.
 
 Among the arguments against the thesis that perception is a form of knowledge, Prichard gives the following two:
-
-1. If perceiving were a kind of knowing, mistakes would not be possible, but they are.
-2. The supposition that the objects of perception exist independently of our perceiving them raises substantive metaphysical questions that admit of no determinate answers.
-
+\begin{itemize}
+	\item If perceiving were a kind of knowing, mistakes would not be possible, but they are.
+	\item The supposition that the objects of perception exist independently of our perceiving them raises substantive metaphysical questions that admit of no determinate answers.
+\end{itemize}
 The first derives from a peculiar feature of the Cook Wilsonian conception of knowledge, and the second is explicitly derived from G.A. Paul. Both present important morals for Oxford realism. The moral of the first argument is that a feature of Cook Wilsonian conception of knowledge must be abandoned if Oxford realism is to be sustained. The moral of the second argument is that the realist conception of knowledge requires a disjunctivist conception of perception (though and will take the work of Austin and Hinton to begin to vindicate this).
 
 The first argument can seem like a variant of the argument from illusion (though it really has a very different character): 
-
-> ... if perceiving were a kind of knowing, mistakes about what we perceive would be impossible, and yet they are constantly being made, since at any rate in the cases of seeing and feeling or touching we are almost always in a state of thinking that what we are perceiving are various bodies, although we need only to reflect to discover that in this we are mistaken. 
-
+\begin{quote}
+	\ldots\ if perceiving were a kind of knowing, mistakes about what we perceive would be impossible, and yet they are constantly being made, since at any rate in the cases of seeing and feeling or touching we are almost always in a state of thinking that what we are perceiving are various bodies, although we need only to reflect to discover that in this we are mistaken. 
+\end{quote}
 The passage is frustrating in its lack of explicitness. Indeed in the last line Prichard seems to echo Hume’s contention that it takes the slightest bit of philosophy to show that naïve realism is false. 
 
-Suppose a pig is in plain view of a subject, and the subject can recognize as a pig the animal that he sees. It might seem that what the subject is thus aware is incompatible with there not being a pig in before the subject. In which case, perception affords the subject something akin to proof of a porcine presence. In this way, perception can seem to make the subject knowledgeable of a mind-independent subject matter. 
-
-Prichard's insight is that this picture is incompatible with a further feature of Cook Wilson's conception of knowledge:
-
-> The consciousness that the knowing process is a knowing process must be contained within the knowing process itself. *Statement and Inference* 107
-
+Suppose a pig is in plain view of a subject, and the subject can recognize as a pig the animal that he sees. It might seem that what the subject is thus aware is incompatible with there not being a pig in before the subject. In which case, perception affords the subject something akin to proof of a porcine presence. In this way, perception can seem to make the subject knowledgeable of a mind-independent subject matter. Prichard's insight is that this picture is incompatible with a further feature of Cook Wilson's conception of knowledge:
+\begin{quote}
+	The consciousness that the knowing process is a knowing process must be contained within the knowing process itself. *Statement and Inference* 107
+\end{quote}
 Prichard understands this as follows:
-
-> We must recognize that whenever we know something we either do, or at least can, by reflecting, directly know that we are knowing it, and that whenever we believe something, we similarly either do or can directly know that we are believing it and not knowing it. (1950: 86)
-
+\begin{quote}
+	We must recognize that whenever we know something we either do, or at least can, by reflecting, directly know that we are knowing it, and that whenever we believe something, we similarly either do or can directly know that we are believing it and not knowing it. (1950: 86)
+\end{quote}
 If a subject knows that p, the subject can know upon reflection that the he knows that p. Knowledge admits of no ringers---a state indiscriminable upon reflection from knowledge just is knowledge. What would it take for perception to make us knowledgeable of a mind-independent subject matter if there are no ringers for knowledge? If the subject's seeing the pig makes him knowledgeable of the pig's presence, then the subject must recognize that what he is aware of in seeing the pig is incompatible with the pig's absence. But is the subject in seeing the pig in a position to recognize that? After all, there are situations indiscriminable upon reflection from seeing a pig that that do not involve the pig's presence. The subject's hallucination of the scene would be indiscirminable upon reflection from his perceiving it. If what the subject is aware of in seeing the pig is not discriminable upon reflection from what, if anything, he is aware of in hallucinating the pig, then it could seem that he is not in a position to recognize that what is aware of in seeing the pig is incompatible with the pig's absence. He would lack proof of a pig before him. Prichard's insight can be put as follows: If knowledge admits of no ringers, then since perception admits of ringers, perception cannot make one knowledgeable of a mind-independent subject matter.
 
 This argument reveals a tension within the Oxford realism of Cook Wilson and early Prichard. If Cook Wilson and early Prichard were right in claiming that the objects of knowledge are mind-independent objects open to investigation, and the objects of perception are at least potential objects of knowledge, then these claims can only be sustained by abandoning the problematic feature of the Cook Wilsonian conception of knowledge. Indeed, it is telling that Austin jettison's this feature of Cook Wilson's conception of knowledge.
@@ -114,40 +165,50 @@ Paul's primary target is Moore's realism and Cambridge realism more generally.
 Cambridge realists shared a conception of sense perception with their Oxford counterparts. Roughly speaking, sense perception is conceived as a fundamental mode of awareness of the mind-independent environment, a mode of awareness that enables the subject to have propositional knowledge of that environment. 
 
 Like their Oxford counterparts, the Cambridge realists held that the object of knowledge is independent of the act of knowing, and that perception is a form of knowing. Cambridge realism departs from Oxford realism in its adherence to a further thesis. Let sense experience be the genus of which sense perception is a species. Cambridge realists, in addition, held:
-
-> There is something of which a subject is aware in undergoing sense experience.
-
-According to the theories of Russell, Moore, and Price, sense data are whatever we are aware of in sense experience. So understood, sense data are whatever entities that play this epistemic role. This characterization of sense data is *neutral* in the sense that it assumes nothing about the substantive nature of objects that play this epistemic role. Further argument is required to establish substantive claims about the nature of sense data. Notice, that so conceived, sense data are objects whose substantive nature is open to investigation independent of our acts of awareness of them. 
+\begin{quote}
+	There is something of which a subject is aware in undergoing sense experience.
+\end{quote}
+According to the theories of Russell, Moore, and Price, sense data are whatever we are aware of in sense experience. So understood, sense data are whatever entities that play this epistemic role. This characterization of sense data is \emph{neutral} in the sense that it assumes nothing about the substantive nature of objects that play this epistemic role. Further argument is required to establish substantive claims about the nature of sense data. Notice, that so conceived, sense data are objects whose substantive nature is open to investigation independent of our acts of awareness of them. 
 
 It is this consequence of the conjunction of the realist conception of knowledge, the conception of perception as a form of knowing, and the sense data theory that is Paul's primary target:
+\begin{quote}
+	Sense data are mind-independent objects whose substantive nature is open to investigation
+\end{quote}
 
-> Sense data are mind-independent objects whose substantive nature is open to investigation
-
-In "Is There a Problem about Sense Data" Paul makes negative and positive claims. Paul denies that sense data are mind-independent objects whose substantive nature is open to investigation. Paul claims instead that sense data are shadows cast by experiences that can elicited by suitably affecting the mind. Open questions about the nature of sense data are resolved not by investigation but by linguistic decision.
+In ``Is There a Problem about Sense Data'' Paul makes negative and positive claims. Paul denies that sense data are mind-independent objects whose substantive nature is open to investigation. Paul claims instead that sense data are shadows cast by experiences that can elicited by suitably affecting the mind. Open questions about the nature of sense data are resolved not by investigation but by linguistic decision.
 
 Here we encounter an alien influences on the tradition of Oxford reflection on perception---in the present instance, a Viennese influence. Indeed, ``Is There a Problem about Sense Data'' was composed prior to Paul's coming to Oxford while he was still in Cambridge where he studied and worked with Wittgenstein. 
 Ayer take over from Carnap and the other positivists the general idea that there is no substantive metaphysics and that metaphysical disagreements are better understood as practical disagreements about what language or conceptual scheme to adopt. Ayer applies this general idea to sense data and suggests that talk of sense data is just an alternative way of talking about facts that all of us can agree about, namely, facts about appearances. The application of the general idea to sense data can be found as well in Wittgenstein, and Wittgenstein's middle period discussion of sense data is most likely the proximate influence on Paul:
-
-> Philosophers say it as a philosophical opinion or conviction that there are sense data. But to say that I believe that there are sense data comes to saying that I believe that an object may appear to be before our eyes even when it isn't. Now when one uses the word "sense datum", one should be clear about the peculiarity of its grammar. For the idea in introducing this expression was to model expressions referring to "appearance" after expressions referring to "reality". It was said, e.g., that if two things seem to be equal, there must be two somethings which are equal. Which of course means nothing else but that we have decided to use such an expression as "the appearances of these two things are equal" synonymously with "these two things seem to be equal". Queerly enough, the introduction of this new phraseology has deluded people into thinking that they had discovered new entities, new elements of the structure of the world, as though to say "I believe that there are sense data" were similar to saying "I believe that matter consists of electrons". (*The Blue Book*, 70)
+\begin{quote}
+	Philosophers say it as a philosophical opinion or conviction that there are sense data. But to say that I believe that there are sense data comes to saying that I believe that an object may appear to be before our eyes even when it isn't. Now when one uses the word ``sense datum'', one should be clear about the peculiarity of its grammar. For the idea in introducing this expression was to model expressions referring to ``appearance'' after expressions referring to ``reality''. It was said, e.g., that if two things seem to be equal, there must be two somethings which are equal. Which of course means nothing else but that we have decided to use such an expression as ``the appearances of these two things are equal'' synonymously with ``these two things seem to be equal''. Queerly enough, the introduction of this new phraseology has deluded people into thinking that they had discovered new entities, new elements of the structure of the world, as though to say ``I believe that there are sense data'' were similar to saying ``I believe that matter consists of electrons''. (*The Blue Book*, 70)
+\end{quote}
 
 According to the conception of sense perception common to Oxford and Cambridge realists, sensing is a form of knowing, and the objects of knowledge are independent of the act of knowing. Paul doubts whether this conception of sense perception can be sustained if we further assume that we are are aware of sense data in undergoing sense experience. The resulting indirect realism of Moore naturally raises a veil of perception worry. If what I am directly aware of in sense perception is sense data and not material objects, then how on the basis of sense perception can we be in a position to know about material objects? Moore's hypothesis, that he struggled to maintain throughout his career, that sense data are material surfaces, might provide an answer to the veil of perception worry. Since material surfaces are not independent of the material objects whose surfaces they are, it is plausible that sensuous awareness of material surfaces makes you knowledgeable of material objects. However, this response to the veil of perception worry is committed to there being determinate answers to questions that so far lack sense.
 
 Specifically, in claiming that sense data are material surfaces, Moore is committed to there being determinate answers to whether sense data are public or private, whether sense data can persist unsensed, and whether sense data can be reencountered in distinct acts of awareness. If sense data are material surfaces, then sense data are public, can persist unsensed, and can be reencountered in distinct sensings. Distinct subjects may be sensuously aware of the same material surface, material surfaces persist whether a subject is sensuously aware of it or not, and material surfaces can be reencountered in distinct sense experiences.
 
-Paul assumes that material objects exist independently of our sensuous awareness of them; so Paul's main point is about the alleged *mind-independence* of sense data.
+Paul assumes that material objects exist independently of our sensuous awareness of them; so Paul's main point is about the alleged \emph{mind-independence} of sense data.
 
 If an object exists independently of a subject's awareness of it in perceptual experience, then it is at least intelligible to suppose that another subject, viewing the same scene, could be aware of it in their perceptual experience of that scene. Moreover if an object is independent of a subject's awareness of it, it is at least intelligible to suppose that the object persists when no one is aware of it. Further if the object of awareness is independent of a subject's awareness of it, then it is intelligible that the subject may reencounter that object in distinct episodes of sensuous awareness. Part of what it is to think of an object of awareness as being independent of that awareness is just for it to be intelligible that the object is public, can persist independently of our awareness of it, and can be reencountered in distinct acts of awareness. 
 
 Thus if sense data were independent of our awareness of them in sense experience, it would be intelligible that they exist unsensed, are public, and can be reencountered in distinct courses of sense experience. But these things aren't intelligible, so we can't intelligibly regard sense data as possessing a substantive nature open to investigation independent of our awareness of them. Moreover, if we cannot intelligibly regard sense data as objects open to investigation independent of our awareness of them, we cannot identify sense data with material surfaces as Moore recommends. And if sense data are not material surfaces then we cannot overcome the veil of perception worry in this way.
 
 That it is not intelligible to claim that sense data exist when no is aware of them means, in the present instance, that such claims have no use. This is not, however, to say that a use may not be assigned to such claims. But that is a matter for linguistic decision, not discovery:
-
-> The important point is whatever we do is not demanded by the nature of objects which we are calling `sense-data', but that we have a choice of different notations for describing observations, the choice being determined only by the greater convenience of one notation, or our personal inclination, or by tossing a coin.
-
-So even if we were to extend sense data talk so that it made sense to say that a sense datum exists unsensed, this would just what we would *call* an unsensed sense data, not the discovery of unsensed sense data.
+\begin{quote}
+	The important point is whatever we do is not demanded by the nature of objects which we are calling `sense-data', but that we have a choice of different notations for describing observations, the choice being determined only by the greater convenience of one notation, or our personal inclination, or by tossing a coin.
+\end{quote}
+So even if we were to extend sense data talk so that it made sense to say that a sense datum exists unsensed, this would just what we would \emph{call} an unsensed sense data, not the discovery of unsensed sense data.
 
 Suppose Paul's central claim is right---that sense data do not have a substantive nature open to investigation independent of our awareness of them in sense experience. There are at least three potential morals:
 
-1. One might deny that there are any substantive facts about the nature of sense data that are open to investigation. (Paul, Ayer)
-2. One might claim that sense data constitutively depend on our awareness of them in sense experience. Sense data would be in this regard like Berkelean ideas. Sense data would lack a substantive nature independent of our awareness of them. Though, Ayer, at least, would regard this Berkelean alternative as piece of substantive metaphysics on a par with Moorean sense data. (Though neither deploy the sense data vocabulary, Berkeley, later Prichard)
-3. One might retain the conception of perception common to Oxford and Cambridge realists by abandoning the fundamental claim of the sense-datum theory---that there is an object of which we are aware whenever we undergo sense experience. (Austin, Hinton)
+\begin{itemize}
+	\item One might deny that there are any substantive facts about the nature of sense data that are open to investigation. (Paul, Ayer)
+	\item One might claim that sense data constitutively depend on our awareness of them in sense experience. Sense data would be in this regard like Berkelean ideas. Sense data would lack a substantive nature independent of our awareness of them. Though, Ayer, at least, would regard this Berkelean alternative as piece of substantive metaphysics on a par with Moorean sense data. (Though neither deploy the sense data vocabulary, Berkeley, later Prichard)
+	\item One might retain the conception of perception common to Oxford and Cambridge realists by abandoning the fundamental claim of the sense-datum theory---that there is an object of which we are aware whenever we undergo sense experience. (Austin, Hinton)
+\end{itemize}
+
+% (end)
+\bibliographystyle{plainnat} 
+\bibliography{Philosophy}
+
+\end{document}
