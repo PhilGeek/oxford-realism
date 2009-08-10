@@ -13,4 +13,7 @@ This is a draft of a paper cowritten by Charles Travis on Oxford realism for Mic
 # Contents
 
 * README.markdown
-* perception.markdown
+* oxford.tex---the master file
+* language.tex
+* knowledge.tex
+* perception.tex
