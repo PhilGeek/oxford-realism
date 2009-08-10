@@ -1,0 +1,59 @@
+%!TEX TS-program = xelatex 
+%!TEX TS-options = -synctex=1 -output-driver="xdvipdfmx -q -E"
+%!TEX encoding = UTF-8 Unicode
+%
+%  Oxford Realism
+%
+%  Created by Mark Eli Kalderon on 2009-08-08.
+%
+
+\documentclass[11pt]{article} 
+
+% Definitions
+\newcommand\myauthor{Mark Eli Kalderon and Charles Travis} 
+\newcommand\mytitle{Oxford Realism}
+
+% Packages
+\usepackage{url}
+\usepackage{txfonts}
+
+% XeTeX
+\usepackage[cm-default]{fontspec}
+\usepackage{xltxtra,xunicode}
+\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text}
+\setmainfont{Hoefler Text}
+\setsansfont{Gill Sans}
+\setmonofont{Inconsolata}
+
+% Bibliography
+\usepackage[round]{natbib}
+
+% Title Information
+\title{\mytitle}
+\author{\myauthor} 
+% \date{} % Leave blank for no date, comment out for most recent date
+
+% PDF Stuff
+\usepackage[plainpages=false, pdfpagelabels, bookmarksnumbered, backref, pdftitle={\mytitle}, pagebackref, pdfauthor={\myauthor}, xetex]{hyperref}
+
+%%% BEGIN DOCUMENT
+\begin{document}
+
+% Title Page
+\maketitle
+
+% Layout Settings
+\setlength{\parindent}{1em}
+
+% Main Content
+
+\input{language}
+\input{knowledge}
+\input{perception}
+
+% (end)
+
+\bibliographystyle{plainnat} 
+\bibliography{Philosophy}
+
+\end{document}
